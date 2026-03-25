@@ -167,7 +167,26 @@ window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
       </script>
-      <script src="https://freelygreatestscammer.com/ec/6d/9e/ec6d9ecb749b9ee3321479869db29df9.js"></script>
+      <script>
+var timer = 0;
+function updatetimer() {
+    timer += 1;
+}
+setInterval(updatetimer, 1000);
+        var popcount = 0;
+      document.onclick = function() {
+        if(!((popcount>=8)||(timer<20))) {
+        var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
+        var name = "popunder";
+        var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
+        
+        var pop = window.open(url, name, features);
+            window.focus();
+            popcount += 1;
+            timer = 0;
+    }
+    };
+    </script>
     </head>
     <body>
         <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
