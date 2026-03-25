@@ -22,14 +22,14 @@
         <input type="text" id="title"> <br>
         <label>Tab Icon</label> <br>
         <select name="options" id="icon">
-  <option value="https://somethingmath.fwh.is/canvas.png">Canvas</option>
-  <option value="https://somethingmath.fwh.is/clever.png">Clever</option>
-  <option value="https://somethingmath.fwh.is/gmail.png">Gmail</option>
-    <option value="https://somethingmath.fwh.is/gdrive.png">Google Drive</option>
-      <option value="https://somethingmath.fwh.is/gclassroom.png">Google Classroom</option>
-    <option value="https://somethingmath.fwh.is/amplify.png">Amplify</option>
-    <option value="https://somethingmath.fwh.is/ixl.png">IXL</option>
-    <option value="https://somethingmath.fwh.is/edmentum.png">Edmentum</option>
+  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/canvas.png">Canvas</option>
+  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/clever.png">Clever</option>
+  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gmail.png">Gmail</option>
+    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gdrive.png">Google Drive</option>
+      <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gclassroom.png">Google Classroom</option>
+    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/amplify.png">Amplify</option>
+    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/ixl.png">IXL</option>
+    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/edmentum.png">Edmentum</option>
         </select> <br>
             <button id="save">Save</button> <br>
         <button id="aboutBlank">about:blank</button>
@@ -71,7 +71,7 @@
         <button id="9" class="websitelink">Aleks Math</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
-          <button id="fullscreen"><img src="/fullscreen.png"></img></button>
+          <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
       </div>
       <script>
 function openPopup() {
