@@ -173,16 +173,14 @@ function updatetimer() {
     timer += 1;
 }
 setInterval(updatetimer, 1000);
-        var popcount = 0;
       document.onclick = function() {
-        if(!((popcount>=8)||(timer<20))) {
+        if(!(timer<10)) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var name = "popunder";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
         
         var pop = window.open(url, name, features);
             window.focus();
-            popcount += 1;
             timer = 0;
     }
     };
