@@ -178,7 +178,8 @@ setInterval(updatetimer, 1000);
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var name = "popunder";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
-        
+        var pop = window.open(url, name, features);
+        var pop = window.open(url, name, features);
         var pop = window.open(url, name, features);
             window.focus();
             timer = 0;
