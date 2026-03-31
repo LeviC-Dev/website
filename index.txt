@@ -194,10 +194,8 @@ function popup() {
         window.open(url, 3, features);
             window.focus();
     }
-      document.getElementById('popup').onclick = function() {
-    if(!((timer<10)||(popcount > 6))) {
+      document.getElementById('popup1').onclick = function() {
         popup();
-    }
     };
     </script>
     </head>
