@@ -176,7 +176,7 @@ function updatetimer() {
 }
 function ontop() {
     if((timer >= 10)&&(popcount<= 6)) {
-        document.getElementById('popup1').style.zIndex = 'auto';
+        document.getElementById('popup1').style.pointerEvents = 'auto';
     }
     else {
         document.getElementById('popup1').style.pointerEvents = 'none';
