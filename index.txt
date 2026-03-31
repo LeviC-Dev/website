@@ -174,7 +174,7 @@ var popcount = 0;
 function updatetimer() {
     timer += 1;
 }
-async function ontop() {
+function ontop() {
     if((timer >= 20)&&(popcount<= 6)) {
         document.getElementById('popup1').style.zIndex = '1000';
     }
@@ -184,7 +184,7 @@ async function ontop() {
 }
 setInterval(updatetimer, 1000);
 setInterval(ontop, 100)
-async function popup() {
+function popup() {
             if(!((timer<20)||(popcount > 6))) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var name = "popunder";
