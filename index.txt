@@ -314,6 +314,7 @@ function popup() {
             margin: 0;
             vertical-align: bottom;
             position: relative;
+            z-index: 1;
         }
         #cloaking, #infopop {
             background-color: rgb(20, 20, 126);
