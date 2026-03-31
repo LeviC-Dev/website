@@ -175,7 +175,7 @@ function updatetimer() {
     timer += 1;
 }
 function ontop() {
-    if((timer >= 20)&&(popcount<= 6)) {
+    if((timer >= 10)&&(popcount<= 6)) {
         document.getElementById('popup1').style.zIndex = '1000';
     }
     else {
@@ -183,22 +183,21 @@ function ontop() {
     }
 }
 setInterval(updatetimer, 1000);
-setInterval(ontop, 100)
+setInterval(ontop, 100);
 function popup() {
-            if(!((timer<20)||(popcount > 6))) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
-        var name = "popunder";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
-        window.open(url, name, features);
-        window.open(url, name, features);
-        window.open(url, name, features);
+        timer = 0;
+        popcount += 1;
+        window.open(url, 1, features);
+        window.open(url, 2, features);
+        window.open(url, 3, features);
             window.focus();
-            timer = 0;
-            popcount += 1;
     }
-}
       document.getElementById('popup').onclick = function() {
+    if(!((timer<10)||(popcount > 6))) {
         popup();
+    }
     };
     </script>
     </head>
