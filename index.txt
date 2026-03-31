@@ -175,6 +175,10 @@ function updatetimer() {
 }
 setInterval(updatetimer, 1000);
 function popup() {
+
+    }
+      document.getElementById('popup').onclick = function() {
+    if(!(popcount > 6)) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
         timer = 0;
@@ -184,10 +188,6 @@ function popup() {
         window.open(url, 3, features);
             window.focus();
     }
-      document.getElementById('popup').onclick = function() {
-    if(!(popcount > 6)) {
-        popup();
-    }
     };
     </script>
     </head>
@@ -195,12 +195,6 @@ function popup() {
         <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
-        #popup1 {
-          position: absolute;
-          z-index: -999;
-          width: 100vw;
-          height: 100vh;
-        }
         head {
             width: 100%;  
             max-height: 10vh;
