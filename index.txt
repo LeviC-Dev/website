@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<div id="popup1"></div>
 <html>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
@@ -174,16 +173,7 @@ var popcount = 0;
 function updatetimer() {
     timer += 1;
 }
-function ontop() {
-    if((timer >= 10)&&(popcount<= 6)) {
-        document.getElementById('popup1').style.zIndex = '1000';
-    }
-    else {
-        document.getElementById('popup1').style.zIndex = '-1000';
-    }
-}
 setInterval(updatetimer, 1000);
-setInterval(ontop, 100);
 function popup() {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
@@ -195,7 +185,7 @@ function popup() {
             window.focus();
     }
       document.getElementById('popup').onclick = function() {
-    if(!((timer<10)||(popcount > 6))) {
+    if(!(popcount > 6)) {
         popup();
     }
     };
