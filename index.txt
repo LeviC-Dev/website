@@ -194,7 +194,7 @@ function popup() {
         window.open(url, 3, features);
             window.focus();
     }
-      document.getElementById('popup1').onclick = function() {
+      document.getElementById('popup1').onClick = function() {
         popup();
     };
     </script>
