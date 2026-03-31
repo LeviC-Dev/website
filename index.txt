@@ -169,21 +169,26 @@ window.onbeforeunload = function(e) {
       </script>
       <script>
 var timer = 0;
+var popcount = 0;
 function updatetimer() {
     timer += 1;
 }
 setInterval(updatetimer, 1000);
-      document.onclick = function() {
-        if(!(timer<10)) {
+async function popup() {
+            if(!((timer<20)||(popcount >= 6))) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var name = "popunder";
         var features = "width=" + window.screen.width + ",height=" + window.screen.height + ",scrollbars=yes";
-        var pop = window.open(url, name, features);
-        var pop = window.open(url, name, features);
-        var pop = window.open(url, name, features);
+        window.open(url, name, features);
+        window.open(url, name, features);
+        window.open(url, name, features);
             window.focus();
             timer = 0;
+            popcount += 1;
     }
+}
+      document.onclick = function() {
+        popup();
     };
     </script>
     </head>
