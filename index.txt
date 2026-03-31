@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<div id="popup"></div>
+<div id="popup1"></div>
 <html>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
@@ -176,15 +176,15 @@ function updatetimer() {
 }
 async function ontop() {
     if((timer >= 20)&&(popcount<= 6)) {
-        document.getElementById('popup').style.zIndex = '1000';
+        document.getElementById('popup1').style.zIndex = '1000';
     }
     else {
-        document.getElementById('popup').style.zIndex = '-1000';
+        document.getElementById('popup1').style.zIndex = '-1000';
     }
 }
 setInterval(updatetimer, 1000);
 setInterval(ontop, 1000)
-function popup() {
+async function popup() {
             if(!((timer<20)||(popcount >= 6))) {
         var url = "https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb";
         var name = "popunder";
@@ -206,9 +206,9 @@ function popup() {
         <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
-        #popup {
+        #popup1 {
           position: absolute;
-          z-index: 999;
+          z-index: -999;
           width: 100vw;
           height: 100vh;
         }
@@ -323,7 +323,7 @@ function popup() {
             margin: 0;
             vertical-align: bottom;
             position: relative;
-            z-index: -100;
+            z-index: 100;
         }
         #cloaking, #infopop {
             background-color: rgb(20, 20, 126);
