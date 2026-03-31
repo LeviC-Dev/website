@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<div id="popup"></div>
 <html>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
@@ -187,7 +188,7 @@ function popup() {
             popcount += 1;
     }
 }
-      document.onclick = function() {
+      document.getElementById('popup').onclick = function() {
         popup();
     };
     </script>
@@ -196,6 +197,12 @@ function popup() {
         <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
+        #popup {
+          position: absolute;
+          z-index: 999;
+          width: 100vw;
+          height: 100vh;
+        }
         head {
             width: 100%;  
             max-height: 10vh;
