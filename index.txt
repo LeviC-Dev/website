@@ -5,8 +5,8 @@
         <h1>Read User Policy</h1>
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
         <h2>Go to the Info tab to recieve updates on the page status</h2>
-        <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions. Also MATH IS FUN!! Especially Aleks Math.
-             Yes I know it is not working it is only symbolic. I couldn't get it to work in Iframes I did six hours of Aleks math last night!
+        <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions.
+             Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clickiing the button a few times.
              <br>Scroll down and click on the info link to get to the doc.</p>
         <h4>User Policy</h4>
         <p>By clicking the button marked close I agree to the following:
@@ -14,37 +14,6 @@
             I will not use this website to perform elicit or illegal activities;
             I will not perform non school appropriate activities on this website;
             If enrolled in school, I will remain diligent in my studies and will not use this website during class time.
-
-        </p>
-        <button id="close" onclick="closePopup()">Close</button>
-    </dialog>
-    <div id="cloaking" popover triggers="click blur">
-        <label>Tab Name</label> <br>
-        <input type="text" id="title"> <br>
-        <label>Tab Icon</label> <br>
-        <select name="options" id="icon">
-  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/canvas.png">Canvas</option>
-  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/clever.png">Clever</option>
-  <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gmail.png">Gmail</option>
-    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gdrive.png">Google Drive</option>
-      <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/gclassroom.png">Google Classroom</option>
-    <option value="https://raw.g<!DOCTYPE html>
-<div id="popup1"></div>
-<html>
-    <dialog id="myPopup">
-        <h1>Read User Policy</h1>
-        <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
-        <h2>Go to the Info tab to recieve updates on the page status</h2>
-        <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions. Also MATH IS FUN!! Especially Aleks Math.
-             Yes I know it is not working it is only symbolic. I couldn't get it to work in Iframes I did six hours of Aleks math last night!
-             <br>Scroll down and click on the info link to get to the doc.</p>
-        <h4>User Policy</h4>
-        <p>By clicking the button marked close I agree to the following:
-            I will not use this website to break school rules;
-            I will not use this website to perform elicit or illegal activities;
-            I will not perform non school appropriate activities on this website;
-            If enrolled in school, I will remain diligent in my studies and will not use this website during class time.
-
         </p>
         <button id="close" onclick="closePopup()">Close</button>
     </dialog>
@@ -103,14 +72,14 @@
           <meta http-equiv="Pragma" content="no-cache">
       <div id="navbar">
          <button  id="1" class="websitelink">gn-math</button>
-        <button id="2" class="websitelink" >Space</button>
+        <button id="2" class="websitelink" >Flux</button>
          <button id="3" class="websitelink">Dogeub</button>
         <button id="4" class="websitelink">Overcloaked</button>
-        <button id="5" class="websitelink">Infamous</button>
+        <button id="5" class="websitelink">Bolt</button>
         <button id="6" class="websitelink">Ghostlink</button>
-        <button id="7" class="websitelink">Relic</button>
-        <button id="8" class="websitelink">Vapor</button>
-        <button id="9" class="websitelink">Aleks Math</button>
+        <button id="7" class="websitelink">Lucide</button>
+        <button id="8" class="websitelink">Nebuli</button>
+        <button id="9" class="websitelink">Krypton</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
@@ -164,11 +133,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://matter.is-a.software.cdn.cloudflare.net/";
+             src = "https://howtostudygood-forfree-tips.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
-             src = "https://edu-gov-k12-school-learn-study.is-a.software.cdn.cloudflare.net/docs/r/";
+             src = "https://storage.googleapis.com/canvas-lms/index.html";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
@@ -176,7 +145,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://freee.cnstefancelmare.ro/";
+             src = "https://boltium.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
@@ -184,15 +153,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://calculatemath.org/";
+             src = "https://byod.geeked.wtf/";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
-             src = "https://3fwildcard.vaporized.help.iiiii.info";
+             src = "https://riverview-acadamy.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home"
+            src = "https://calculator-68940.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("fullscreen").onclick = function()  {
@@ -211,332 +180,7 @@ window.onbeforeunload = function(e) {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
-    </body>
-    <style>
-        #popup1 {
-          position: absolute;
-          z-index: -999;
-          width: 100vw;
-          height: 100vh;
-          pointer-events: none;
-        }
-        head {
-            width: 100%;  
-            max-height: 10vh;
-            align-content: center;
-            align-self: center;
-        }
-        html {
-            width: 100%;
-            height: 100%;
-            background-color: rgb(20, 20, 126);
-            padding: 0px;
-            margin: 0px;
-            vertical-align: bottom;
-        }   
-        body {
-            width: 100%;
-            min-height: 90vh;
-            padding: 0px;
-            margin: 0px;
-            vertical-align: bottom;
-            overflow: hidden;
-        }
-        .websitelink {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 7px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            font-size: 1.7vw;
-            text-decoration: none;
-            color: black;
-            min-width: 100px;
-            text-align: center;
-        }
-        #cloak {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 7px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            font-size: 1.7vw;
-            text-decoration: none;
-            color: rgb(0, 0, 0);
-            text-align: center;
-        }
-            #info {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 7px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            font-size: 1.7vw;
-            text-decoration: none;
-            color: rgb(0, 0, 0);
-            text-align: center;
-            margin-left: auto;
-            min-width: 75px
-        }
-        #cloak:hover, #info:hover {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #cloak:focus, #info:focus {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        .websitelink:focus {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        .websitelink:hover {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #fullscreen {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 5px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            height: 37px;
-            width: 37px;      
-            justify-self: right;
-        }
-        #fullscreen:hover {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #fullscreen:focus {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        img {
-            height: 32px;
-            width: 32px;
-            object-fit: scale-down;
-        }
-        #navbar {
-           align-content: center;
-           align-self: center;
-           display: flex;
-           justify-content: center;
-        }
-        #website {
-            position: fixed;
-            width: 100%;
-            min-height: 90vh;
-            padding: 0;
-            margin: 0;
-            vertical-align: bottom;
-            position: relative;
-        }
-        #cloaking, #infopop {
-            background-color: rgb(20, 20, 126);
-            border: 8px solid rgb(67, 115, 147);
-            border-radius: 18px;
-            width: 35vw;
-            height: 55vh;
-        }
-        #cloaking::backdrop, #infopop::backdrop {
-            filter: blur(15px);
-        }
-        #aboutBlank {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 7px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            font-size: 2vw;
-            text-decoration: none;
-            color: black;
-            min-width: 120px;
-            text-align: center;
-        }
-        #aboutBlank:focus {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #aboutBlank:hover {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #save, #close {
-            border: 0.1px solid rgb(67, 115, 147);
-            border-radius: 7px;
-            background-color: rgb(67, 115, 147);
-            padding: 1px;
-            margin: 7px;
-            font-size: 2vw;
-            text-decoration: none;
-            color: black;
-            text-align: center;
-        }
-        #save:hover, #close:hover {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        #save:focus, #close:focus {
-            border: 2px solid rgb(32, 58, 104);
-            background-color: rgb(32, 58, 104);
-        }
-        dialog {
-            border: 5px solid rgb(67, 115, 147);
-            border-radius: 18px;
-            background-color: rgb(20, 20, 126);
-        }
-    </style>         
-</html>ithubusercontent.com/LeviC-Dev/website/main/amplify.png">Amplify</option>
-    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/ixl.png">IXL</option>
-    <option value="https://raw.githubusercontent.com/LeviC-Dev/website/main/edmentum.png">Edmentum</option>
-        </select> <br>
-            <button id="save">Save</button> <br>
-        <button id="aboutBlank">about:blank</button>
-    </div>
-    <div id="infopop" popover triggers="click blur">
-              <h3>20% of ad profits go to charity</h3> <br>
-              <p>I am not really keeping this site a secret. If you are a teacher or administrator and you wish this site to be taken down just contact me at my school address, and 
-                I will remove it immediately."Levijcurtis@lpcsc.k12.in.us"</p>
-              <p>I do urge you to recognize some of the benefits that this site also has. This site uses embedded sites that students are already using the difference is that instead
-                of a random adult profiting off the students a fellow peer does. As I have stated before I am also donating 20% of profits to charity. I may also be willing to donate a
-                portion to the school as well to help provide teacher bonuses. It also encourages students to explore stem and computer science. You can see that I have provided many of the resources I have used to
-              create my site down below so that students can explore coding and websites as well.</p>
-      <p style="font-size: 23px">Users</p>
-        <p>If you are in the La Porte School corporation, you can go to this link to recieve more information and updates.</p> <a href="https://docs.google.com/document/d/1xMsn58xAUc64fnQ0ywnjUAXnu_39bmKZFtBe1tUrtB0/edit?usp=sharing" target="_blank">info</a><br>
-        <p>Learn to code and create your own websites with these free resources.</p><br>
-        <a href="https://www.w3schools.com/" target="_blank">W3Schools</a><br>
-        <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a><br>
-        <a href="https://infinityfree.com/" target="_blank">Infinity Free Hosting</a><br>
-        <a href="https://www.codechef.com/html-online-compiler" target="_blank">Code Tester</a>
-        <p style="font-size: 23px">DCMA and Copyright</p> <br>
-        <p>If you have content on this page and would like it removed please contact me at Levi19Curtis@protonmail.com</p>
-    </div>
-    <head>
-        <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
-        <script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: 'yowjmpi5vc',
-    });
-</script>
-          <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="viewport" content="height=device-height, initial-scale=1.0">
-        <meta http-equiv="Expires" content="0">
-        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-          <meta http-equiv="Pragma" content="no-cache">
-      <div id="navbar">
-         <button  id="1" class="websitelink">gn-math</button>
-        <button id="2" class="websitelink" >Space</button>
-         <button id="3" class="websitelink">Dogeub</button>
-        <button id="4" class="websitelink">Overcloaked</button>
-        <button id="5" class="websitelink">Infamous</button>
-        <button id="6" class="websitelink">Ghostlink</button>
-        <button id="7" class="websitelink">Relic</button>
-        <button id="8" class="websitelink">Vapor</button>
-        <button id="9" class="websitelink">Aleks Math</button>
-        <button id="info" popovertarget="infopop">Info</button>
-        <button id="cloak" popovertarget="cloaking">Cloak</button>
-          <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
-      </div>
-      <script>
-function openPopup() {
-    const popup = document.getElementById("myPopup");
-    if (popup) {
-        popup.showModal(); 
-    }
-}
-function closePopup() {
-    const popup = document.getElementById("myPopup");
-    if (popup) {
-        popup.close();
-    }
-}
-document.addEventListener('DOMContentLoaded', (event) => {
-    openPopup();
-});
-        function changeFavicon(newHref) {
-    const head = document.getElementsByTagName('head')[0];
-    const links = head.querySelectorAll('link[rel="icon"], link[rel="shortcut icon"]');
-    links.forEach(link => head.removeChild(link));
-    const newLink = document.createElement('link');
-    newLink.type = 'image/png';
-    newLink.rel = 'icon';
-    newLink.href = newHref;
-    head.appendChild(newLink);
-}
-            async function openAndInject(fileUrl) {
-                const response = await fetch(fileUrl);
-                const htmlText = await response.text();
-
-                const newWindow = window.open('about:blank', '_blank');
-                newWindow.document.write(htmlText);
-                newWindow.document.close();
-        }
-        document.addEventListener('fullscreenchange', (event) => {
-    if (document.fullscreenElement) {
-        document.getElementById("navbar").style.display = "none";
-        document.getElementById("website").style.minHeight = "100vh";
-    } else {
-        document.getElementById("navbar").style.display = "flex";
-        document.getElementById("website").style.minHeight = "90vh";
-    };
-});
-        let src="https://edu-gov-k12-school-learn-study.is-a.software.cdn.cloudflare.net/docs/r/";
-        document.getElementById("1").onclick = function()  {
-             src = "https://educationalfun.wasmer.app/gn-math.html";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("2").onclick = function()  {
-             src = "https://matter.is-a.software.cdn.cloudflare.net/";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("3").onclick = function()  {
-             src = "https://edu-gov-k12-school-learn-study.is-a.software.cdn.cloudflare.net/docs/r/";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("4").onclick = function()  {
-             src = "https://fg2jb0rq.beanweb.qzz.io.cdn.cloudflare.net/";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("5").onclick = function()  {
-             src = "https://freee.cnstefancelmare.ro/";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("6").onclick = function()  {
-             src = "https://tropicalpineapple.wixstudio.com/dragonfruittutoring/blank";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("7").onclick = function()  {
-             src = "https://calculatemath.org/";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("8").onclick = function()  {
-             src = "https://3fwildcard.vaporized.help.iiiii.info";
-             document.getElementById("website").src=src;
-        };
-        document.getElementById("9").onclick = function() {
-            src = "https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home"
-            document.getElementById("website").src=src;
-        }
-        document.getElementById("fullscreen").onclick = function()  {
-            document.documentElement.requestFullscreen();
-        };
-        document.getElementById("aboutBlank").onclick = function() {
-            openAndInject(document.URL);
-        };
-        document.getElementById("save").onclick = function() {
-            document.title = document.getElementById('title').value;
-            changeFavicon(document.getElementById('icon').value);
-        };
-window.onbeforeunload = function(e) {
-  return "Are you sure you want to leave?";
-};
-      </script>
-    </head>
-    <body>
-        <iframe  id="website" src="https://www-awy.aleks.com/alekscgi/x/Isl.exe/1o_u-IgNsIkr7j8P3jH-lJjKKWSBKh4JYC7viZ6_juOtYisau7L4e3uhdLY3zRibUHPIknaokTWHM1SkQ5NcuqYwFEOWqh5ML2DzeqYgUiMLe5NM_?1oBw7QYjlbavbSPXtx-YCjsh_7mMmrq#home" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
+        <iframe  id="website" src="https://storage.googleapis.com/canvas-lms/index.html" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
         #popup1 {
