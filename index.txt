@@ -6,7 +6,7 @@
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
         <h2>Go to the Info tab to recieve updates on the page status</h2>
         <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions.
-             Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clickiing the button a few times.
+             Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clicking the button a few times.
              <br>Scroll down and click on the info link to get to the doc.</p>
         <h4>User Policy</h4>
         <p>By clicking the button marked close I agree to the following:
