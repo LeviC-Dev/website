@@ -127,9 +127,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById("website").style.minHeight = "90vh";
     };
 });
-        let src="https://edu-gov-k12-school-learn-study.is-a.software.cdn.cloudflare.net/docs/r/";
+        let src="https://securelyiscoolandfun.wasmer.app/";
         document.getElementById("1").onclick = function()  {
-             src = "https://educationalfun.wasmer.app/gn-math.html";
+             src = "https://securelyiscoolandfun.wasmer.app/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
@@ -180,7 +180,7 @@ window.onbeforeunload = function(e) {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://storage.googleapis.com/canvas-lms/index.html" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
+        <iframe  id="website" src="https://securelyiscoolandfun.wasmer.app/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
         #popup1 {
