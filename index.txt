@@ -127,9 +127,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById("website").style.minHeight = "90vh";
     };
 });
-        let src="https://securelyiscoolandfun.wasmer.app/";
+        let src="https://www.securly.com.udalyonka.com/";
         document.getElementById("1").onclick = function()  {
-             src = "https://securelyiscoolandfun.wasmer.app/";
+             src = "https://www.securly.com.udalyonka.com/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
@@ -180,7 +180,7 @@ window.onbeforeunload = function(e) {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://securelyiscoolandfun.wasmer.app/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
+        <iframe  id="website" src="https://www.securly.com.udalyonka.com/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
         #popup1 {
