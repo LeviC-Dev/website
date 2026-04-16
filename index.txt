@@ -60,11 +60,6 @@
     });
 </script>
 <div>
-    <script type="text/javascript">
-        aclib.runBanner({
-            zoneId: '11199814',
-        });
-    </script>
 </div>
           <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
         <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -84,6 +79,16 @@
         <button id="7" class="websitelink">Lucide</button>
         <button id="8" class="websitelink">Nebuli</button>
         <button id="9" class="websitelink">Krypton</button>
+            <script type="text/javascript">
+        aclib.runBanner({
+            zoneId: '11199814',
+        });
+    </script>
+        <script type="text/javascript">
+        aclib.runBanner({
+            zoneId: '11199814',
+        });
+    </script>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
