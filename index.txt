@@ -55,9 +55,9 @@
     <head>
         <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
         <script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: 'yowjmpi5vc',
-    });
+    //aclib.runAutoTag({
+    //    zoneId: 'yowjmpi5vc',
+    //});
 </script>
 <div>
 </div>
@@ -79,16 +79,6 @@
         <button id="7" class="websitelink">Lucide</button>
         <button id="8" class="websitelink">Nebuli</button>
         <button id="9" class="websitelink">Krypton</button>
-            <script type="text/javascript">
-        aclib.runBanner({
-            zoneId: '11199814',
-        });
-    </script>
-        <script type="text/javascript">
-        aclib.runBanner({
-            zoneId: '11199814',
-        });
-    </script>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
