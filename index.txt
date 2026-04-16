@@ -180,10 +180,10 @@ window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
 let timer = 0;
-function updateTimer() {
+async function updateTimer() {
     timer += 1;
 }
-setInterval('updateTimer, 1000');
+setInterval(updateTimer, 1000);
 document.onclick = function() {
     if(timer>=10) {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
