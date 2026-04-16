@@ -59,11 +59,6 @@
         zoneId: 'yowjmpi5vc',
     });
 </script>
-<script type="text/javascript">
-    aclib.runVideoSlider({
-        zoneId: '11189982',
-    });
-</script>
           <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
         <meta name="referrer" content="no-referrer-when-downgrade" />
         <meta name="bfd407e9c9e292075f69876c4b0ba12da6d5f42b" content="bfd407e9c9e292075f69876c4b0ba12da6d5f42b" />
