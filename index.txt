@@ -4,7 +4,7 @@
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
-        <h2>Go to the Info tab to recieve updates on the page status</h2>
+        <h2>Go to the Info tab to recieve updates on the page status or at this doc <a href="https://docs.google.com/document/d/1xMsn58xAUc64fnQ0ywnjUAXnu_39bmKZFtBe1tUrtB0/edit?usp=sharing">Google Doc</a></h2>
         <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions.
              Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clicking the button a few times.
              <br>Scroll down and click on the info link to get to the doc.</p>
@@ -49,7 +49,7 @@
         <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a><br>
         <a href="https://infinityfree.com/" target="_blank">Infinity Free Hosting</a><br>
         <a href="https://www.codechef.com/html-online-compiler" target="_blank">Code Tester</a>
-        <p style="font-size: 23px">DCMA and Copyright</p> <br>
+        <p style="font-size: 23px">DMCA and Copyright</p> <br>
         <p>If you have content on this page and would like it removed please contact me at Levi19Curtis@protonmail.com</p>
     </div>
     <head>
