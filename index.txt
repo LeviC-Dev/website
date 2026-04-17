@@ -182,7 +182,7 @@ async function updateTimer() {
 }
 setInterval(updateTimer, 1000);
 document.onclick = function() {
-    if(timer>=5) {
+    if(timer>=8) {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     timer = 0;
     }
