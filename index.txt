@@ -55,9 +55,9 @@
     <head>
         <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
         <script type="text/javascript">
-    //aclib.runAutoTag({
-    //    zoneId: 'yowjmpi5vc',
-    //});
+    aclib.runPop({
+        zoneId: '11216286',
+    });
 </script>
 <div>
 </div>
@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://byod.geeked.wtf/";
+             src = "https://unpkg.com/browselucide@1.0.1/logo.svg#/";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
