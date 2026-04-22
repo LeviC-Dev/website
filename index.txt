@@ -70,15 +70,15 @@
         <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
           <meta http-equiv="Pragma" content="no-cache">
       <div id="navbar">
-         <button  id="1" class="websitelink">gn-math</button>
+         <button  id="1" class="websitelink">Gn-Math</button>
         <button id="2" class="websitelink" >Flux</button>
          <button id="3" class="websitelink">Dogeub</button>
         <button id="4" class="websitelink">Overcloaked</button>
-        <button id="5" class="websitelink">Bolt</button>
-        <button id="6" class="websitelink">Ghostlink</button>
-        <button id="7" class="websitelink">Lucide</button>
-        <button id="8" class="websitelink">Nebuli</button>
-        <button id="9" class="websitelink">Krypton</button>
+        <button id="5" class="websitelink">Space</button>
+        <button id="6" class="websitelink">TGLSC</button>
+        <button id="7" class="websitelink">Vapor</button>
+        <button id="8" class="websitelink">Interstellar</button>
+        <button id="9" class="websitelink">Relic</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
@@ -126,13 +126,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById("website").style.minHeight = "90vh";
     };
 });
-        let src="https://www.securly.com.udalyonka.com/";
+        let src="https://educationisfun7.b-cdn.net/";
         document.getElementById("1").onclick = function()  {
-             src = "https://www.securly.com.udalyonka.com/";
+             src = "https://educationisfun4.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://howtostudygood-forfree-tips.b-cdn.net/";
+             src = "https://educationfun.b-cdn.net/	";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
@@ -140,27 +140,27 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
-             src = "https://fg2jb0rq.beanweb.qzz.io.cdn.cloudflare.net/";
+             src = "https://thingy.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://boltium.b-cdn.net/";
+             src = "https://educationfun1.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://tropicalpineapple.wixstudio.com/dragonfruittutoring/blank";
+             src = "https://educationisfun7.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://unpkg.com/browselucide@1.0.1/logo.svg#/";
+             src = "https://educationfun2.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
-             src = "https://riverview-acadamy.b-cdn.net/";
+             src = "https://educationisfun5.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://calculator-68940.b-cdn.net/"
+            src = "https://educationisfun6.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("fullscreen").onclick = function()  {
