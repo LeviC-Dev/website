@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
-             src = "https://storage.googleapis.com/canvas-lms/index.html";
+             src = "https://educationisfun8.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
