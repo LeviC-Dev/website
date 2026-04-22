@@ -4,7 +4,7 @@
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
-        <h2>Go to the Info tab to recieve updates on the page status</h2>
+        <h2>Go to the Info tab to recieve updates on the page status or at this doc <a href="https://docs.google.com/document/d/1xMsn58xAUc64fnQ0ywnjUAXnu_39bmKZFtBe1tUrtB0/edit?usp=sharing">Google Doc</a></h2>
         <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions.
              Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clicking the button a few times.
              <br>Scroll down and click on the info link to get to the doc.</p>
@@ -49,10 +49,12 @@
         <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a><br>
         <a href="https://infinityfree.com/" target="_blank">Infinity Free Hosting</a><br>
         <a href="https://www.codechef.com/html-online-compiler" target="_blank">Code Tester</a>
-        <p style="font-size: 23px">DCMA and Copyright</p> <br>
+        <p style="font-size: 23px">DMCA and Copyright</p> <br>
         <p>If you have content on this page and would like it removed please contact me at Levi19Curtis@protonmail.com</p>
     </div>
     <head>
+<div>
+</div>
           <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
         <meta name="referrer" content="no-referrer-when-downgrade" />
         <meta name="bfd407e9c9e292075f69876c4b0ba12da6d5f42b" content="bfd407e9c9e292075f69876c4b0ba12da6d5f42b" />
@@ -62,15 +64,15 @@
         <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
           <meta http-equiv="Pragma" content="no-cache">
       <div id="navbar">
-         <button  id="1" class="websitelink">gn-math</button>
+         <button  id="1" class="websitelink">Gn-Math</button>
         <button id="2" class="websitelink" >Flux</button>
          <button id="3" class="websitelink">Dogeub</button>
         <button id="4" class="websitelink">Overcloaked</button>
-        <button id="5" class="websitelink">Bolt</button>
-        <button id="6" class="websitelink">Ghostlink</button>
-        <button id="7" class="websitelink">Lucide</button>
-        <button id="8" class="websitelink">Nebuli</button>
-        <button id="9" class="websitelink">Krypton</button>
+        <button id="5" class="websitelink">Space</button>
+        <button id="6" class="websitelink">TGLSC</button>
+        <button id="7" class="websitelink">Vapor</button>
+        <button id="8" class="websitelink">Interstellar</button>
+        <button id="9" class="websitelink">Relic</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
@@ -118,41 +120,41 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById("website").style.minHeight = "90vh";
     };
 });
-        let src="https://www.securly.com.udalyonka.com/";
+        let src="https://educationisfun7.b-cdn.net/";
         document.getElementById("1").onclick = function()  {
-             src = "https://www.securly.com.udalyonka.com/";
+             src = "https://educationisfun4.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://howtostudygood-forfree-tips.b-cdn.net/";
+             src = "https://educationfun.b-cdn.net/	";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
-             src = "https://storage.googleapis.com/canvas-lms/index.html";
+             src = "https://educationisfun8.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
-             src = "https://fg2jb0rq.beanweb.qzz.io.cdn.cloudflare.net/";
+             src = "https://thingy.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://boltium.b-cdn.net/";
+             src = "https://educationfun1.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://tropicalpineapple.wixstudio.com/dragonfruittutoring/blank";
+             src = "https://educationisfun7.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://byod.geeked.wtf/";
+             src = "https://educationfun2.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
-             src = "https://riverview-acadamy.b-cdn.net/";
+             src = "https://educationisfun5.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://calculator-68940.b-cdn.net/"
+            src = "https://educationisfun6.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("fullscreen").onclick = function()  {
