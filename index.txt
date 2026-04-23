@@ -71,7 +71,7 @@
           <meta http-equiv="Pragma" content="no-cache">
       <div id="navbar">
          <button  id="1" class="websitelink">Gn-Math</button>
-        <button id="2" class="websitelink" >Flux</button>
+        <button id="2" class="websitelink" >Fern</button>
          <button id="3" class="websitelink">Dogeub</button>
         <button id="4" class="websitelink">Overcloaked</button>
         <button id="5" class="websitelink">Space</button>
@@ -126,13 +126,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById("website").style.minHeight = "90vh";
     };
 });
-        let src="https://educationisfun7.b-cdn.net/";
+        let src="";
         document.getElementById("1").onclick = function()  {
-             src = "https://educationisfun4.b-cdn.net/";
+             src = "https://funela.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://educationfun.b-cdn.net/	";
+             src = "https://ilovetrigonometry.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
@@ -144,11 +144,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://educationfun1.b-cdn.net/";
+             src = "https://iloveprecalc.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://educationisfun7.b-cdn.net/";
+             src = "https://educationisfun15.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
-let timer = 5;
+let timer = 0;
 async function updateTimer() {
     timer += 1;
 }
@@ -184,13 +184,15 @@ setInterval(updateTimer, 1000);
 document.onclick = function() {
     if(timer>=8) {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     timer = 0;
     }
 }
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://www.securly.com.udalyonka.com/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
+        <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
         #popup1 {
