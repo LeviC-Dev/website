@@ -54,6 +54,11 @@
     </div>
     <head>
         <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+        <script type="text/javascript">
+    aclib.runPop({
+        zoneId: '11216286',
+    });
+</script>
 <div>
 </div>
           <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
@@ -155,7 +160,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://educationisfun6.b-cdn.net/"
+            src = "https://1stgrademath.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("fullscreen").onclick = function()  {
@@ -171,6 +176,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
 window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
+let timer = 0;
+async function updateTimer() {
+    timer += 1;
+}
+setInterval(updateTimer, 1000);
+document.onclick = function() {
+    if(timer>=11) {
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    timer = 0;
+    }
+}
       </script>
     </head>
     <body>
