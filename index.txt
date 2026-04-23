@@ -189,6 +189,7 @@ document.onclick = function() {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.focus();
     timer = 0;
     }
 }
