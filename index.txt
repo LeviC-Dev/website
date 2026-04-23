@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://educationisfun6.b-cdn.net/"
+            src = "https://1stgrademath.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("fullscreen").onclick = function()  {
@@ -182,7 +182,10 @@ async function updateTimer() {
 }
 setInterval(updateTimer, 1000);
 document.onclick = function() {
-    if(timer>=8) {
+    if(timer>=11) {
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
