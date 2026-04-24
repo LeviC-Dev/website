@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <div id="popup1"></div>
 <html>
+     <div id="adspop" popover triggers="click blur">
+        <h1>Get rid of ads!</h1>
+        <h4>Either buy an ad free link for ten dollars(contact me at levijcurtis@lpcsc.k12.in.us for payment details) or view ads all
+            at once to disable ads until you refresh the page.
+        </h4>
+        <button id="allads">Open 30 ads to diable</button>
+     </div>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
@@ -79,11 +86,13 @@
         <button id="7" class="websitelink">Vapor</button>
         <button id="8" class="websitelink">Interstellar</button>
         <button id="9" class="websitelink">Relic</button>
+        <button id="ads" popovertarget="adspop">No Ads</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
       </div>
       <script>
+        let ads=1;
 function openPopup() {
     const popup = document.getElementById("myPopup");
     if (popup) {
@@ -163,6 +172,45 @@ document.addEventListener('DOMContentLoaded', (event) => {
             src = "https://1stgrademath.b-cdn.net/"
             document.getElementById("website").src=src;
         }
+        document.getElementById("allads").onclick = function() {
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+            ads = 0;
+        }
         document.getElementById("fullscreen").onclick = function()  {
             document.documentElement.requestFullscreen();
         };
@@ -182,7 +230,7 @@ async function updateTimer() {
 }
 setInterval(updateTimer, 1000);
 document.onclick = function() {
-    if(timer>=11) {
+    if((timer>=11)&&(ads==1)) {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
@@ -199,6 +247,32 @@ document.onclick = function() {
         <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
+        #ads {
+            border: 0.1px solid rgb(8, 72, 0);
+            border-radius: 7px;
+            background-color: rgb(20, 132, 0);
+            padding: 1px;
+            margin: 7px;
+            font-size: 1.7vw;
+            text-decoration: none;
+            color: black;
+            text-align: center;
+        }
+        #ads:focus {
+            border: 2px solid rgb(8, 72, 0);
+            background-color: rgb(14, 97, 0);
+        }
+        #ads:hover {
+            border: 2px solid rgb(8, 72, 0);
+            background-color: rgb(14, 97, 0);
+        }
+        #adspop {
+            background-color: rgb(20,132,0);
+            border: 8px solid rgb(8, 72, 0);
+            border-radius: 18px;
+            width: 35vw;
+            height: 55vh;
+        }
         #popup1 {
           position: absolute;
           z-index: -999;
@@ -327,6 +401,26 @@ document.onclick = function() {
         }
         #cloaking::backdrop, #infopop::backdrop {
             filter: blur(15px);
+        }
+        #allads {
+            border: 0.1px solid rgb(0, 94, 16);
+            border-radius: 7px;
+            background-color: rgb(0, 130, 13);
+            padding: 1px;
+            margin: 7px;
+            font-size: 2vw;
+            text-decoration: none;
+            color: black;
+            min-width: 120px;
+            text-align: center;
+        }
+        #allads:focus {
+            border: 2px solid rgb(0, 77, 13);
+            background-color: rgb(0, 93, 9);
+        }
+        #allads:hover {
+            border: 2px solid rgb(0, 77, 13);
+            background-color: rgb(0, 93, 9);
         }
         #aboutBlank {
             border: 0.1px solid rgb(67, 115, 147);
