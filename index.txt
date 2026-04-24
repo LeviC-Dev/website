@@ -6,7 +6,8 @@
         <h4>Either buy an ad free link for ten dollars(contact me at levijcurtis@lpcsc.k12.in.us for payment details) or view ads all
             at once to disable ads until you refresh the page.
         </h4>
-        <button id="allads">Open 30 ads to diable</button>
+        <button id="allads">Open 30 ads to diable popups</button>
+        <button id="ads100">For insane people</button>
      </div>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
@@ -211,6 +212,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
     window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
             ads = 0;
         }
+        document.getElementById("ads100").onclick = function() {
+            for(i=0; i++; i<150) {
+                window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+            }
+            ads = 0;
+        }
         document.getElementById("fullscreen").onclick = function()  {
             document.documentElement.requestFullscreen();
         };
@@ -247,7 +254,7 @@ document.onclick = function() {
         <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
-        #ads {
+        #ads, #ads100 {
             border: 0.1px solid rgb(8, 72, 0);
             border-radius: 7px;
             background-color: rgb(20, 132, 0);
@@ -258,11 +265,11 @@ document.onclick = function() {
             color: black;
             text-align: center;
         }
-        #ads:focus {
+        #ads:focus, #ads100:focus {
             border: 2px solid rgb(8, 72, 0);
             background-color: rgb(14, 97, 0);
         }
-        #ads:hover {
+        #ads:hover, #ads100:hover {
             border: 2px solid rgb(8, 72, 0);
             background-color: rgb(14, 97, 0);
         }
