@@ -213,7 +213,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             ads = 0;
         }
         document.getElementById("ads100").onclick = function() {
-            for(i=0; i++; i<150) {
+            for(i=0; i++; i<300) {
                 window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
             }
             ads = 0;
