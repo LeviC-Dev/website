@@ -62,11 +62,6 @@
     </div>
     <head>
         <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
-        <script type="text/javascript">
-    aclib.runPop({
-        zoneId: '11216286',
-    });
-</script>
 <div>
 </div>
           <link id="favicon" rel="icon" href="default-favicon.ico" type="image/png">
