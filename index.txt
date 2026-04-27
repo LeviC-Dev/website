@@ -150,7 +150,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://iloveprecalc.b-cdn.net/";
+             src = "https://aleksmathisfun.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
