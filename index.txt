@@ -8,6 +8,7 @@
         </h4>
         <button id="allads">Open 30 ads to diable popups</button>
         <button id="ads100">For insane people</button>
+        <button id="insane">For really insane people! There is absolutely no reason to press this button it doesn't even turn off the ads!</button>
      </div>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
@@ -169,47 +170,65 @@ document.addEventListener('DOMContentLoaded', (event) => {
             document.getElementById("website").src=src;
         }
         document.getElementById("allads").onclick = function() {
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
             ads = 0;
         }
         document.getElementById("ads100").onclick = function() {
-            for(let i=0; i<300; i++) {
-                window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+            for(let i=0; i<30; i++) {
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+            }
+            ads = 0;
+        }
+        document.getElementById('insane').onclick = function() {
+            for(let i=0; i<100000000; i++) {
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
             }
             ads = 0;
         }
@@ -249,7 +268,7 @@ document.onclick = function() {
         <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
-        #ads, #ads100 {
+        #ads, #ads100, #insane {
             border: 0.1px solid rgb(8, 72, 0);
             border-radius: 7px;
             background-color: rgb(20, 132, 0);
@@ -260,11 +279,11 @@ document.onclick = function() {
             color: black;
             text-align: center;
         }
-        #ads:focus, #ads100:focus {
+        #ads:focus, #ads100:focus, #insane:focus {
             border: 2px solid rgb(8, 72, 0);
             background-color: rgb(14, 97, 0);
         }
-        #ads:hover, #ads100:hover {
+        #ads:hover, #ads100:hover, #insane:hover {
             border: 2px solid rgb(8, 72, 0);
             background-color: rgb(14, 97, 0);
         }
