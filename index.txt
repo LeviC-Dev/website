@@ -134,11 +134,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
         let src="";
         document.getElementById("1").onclick = function()  {
-             src = "https://funela.b-cdn.net/";
+             src = "https://58729303146.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://ilovetrigonometry.b-cdn.net/";
+             src = "https://67890108957965.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
@@ -150,11 +150,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://aleksmathisfun.b-cdn.net/";
+             src = "https://568729309.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://educationisfun15.b-cdn.net/";
+             src = "https://24354657.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://1stgrademath.b-cdn.net/"
+            src = "https://5467890079687.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("allads").onclick = function() {
@@ -252,12 +252,16 @@ async function updateTimer() {
 setInterval(updateTimer, 1000);
 document.onclick = function() {
     if((timer>=11)&&(ads==1)) {
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
-    window.open('https://freelygreatestscammer.com/kq7hxpjzs8?key=69e6086729f9f03ee8d4ad31eb06a6eb');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
     window.focus();
     timer = 0;
     }
