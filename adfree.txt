@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <div id="popup1"></div>
 <html>
+     <div id="adspop" popover triggers="click blur">
+        <h1>Get rid of ads!</h1>
+        <h4>Either buy an ad free link for ten dollars(contact me at levijcurtis@lpcsc.k12.in.us for payment details) or view ads all
+            at once to disable ads until you refresh the page.
+        </h4>
+        <button id="allads">Open 30 ads to diable popups</button>
+        <button id="ads100">For insane people</button>
+        <button id="insane">For really insane people! There is absolutely no reason to press this button it doesn't even turn off the ads!</button>
+     </div>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
         <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
@@ -79,6 +88,7 @@
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
       </div>
       <script>
+        let ads=1;
 function openPopup() {
     const popup = document.getElementById("myPopup");
     if (popup) {
@@ -123,11 +133,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
         let src="";
         document.getElementById("1").onclick = function()  {
-             src = "https://funela.b-cdn.net/";
+             src = "https://58729303146.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://ilovetrigonometry.b-cdn.net/";
+             src = "https://67890108957965.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
@@ -139,11 +149,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://iloveprecalc.b-cdn.net/";
+             src = "https://568729309.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://educationisfun15.b-cdn.net/";
+             src = "https://24354657.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
@@ -155,8 +165,71 @@ document.addEventListener('DOMContentLoaded', (event) => {
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://1stgrademath.b-cdn.net/"
+            src = "https://5467890079687.b-cdn.net/"
             document.getElementById("website").src=src;
+        }
+        document.getElementById("allads").onclick = function() {
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+            ads = 0;
+        }
+        document.getElementById("ads100").onclick = function() {
+            for(let i=0; i<30; i++) {
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+            }
+            ads = 0;
+        }
+        document.getElementById('insane').onclick = function() {
+            for(let i=0; i<100000000; i++) {
+    window.open('https://omg10.com/4/10932755');
+    window.open('https://omg10.com/4/10932754');
+    window.open('https://omg10.com/4/10932752');
+    window.open('https://omg10.com/4/10932750');
+    window.open('https://omg10.com/4/10932748');
+    window.open('https://omg10.com/4/10932747');
+    window.open('https://omg10.com/4/10932746');
+    window.open('https://omg10.com/4/10921608');
+    window.open('https://omg10.com/4/10921606');
+    window.open('https://omg10.com/4/10921607');
+            }
+            ads = 0;
         }
         document.getElementById("fullscreen").onclick = function()  {
             document.documentElement.requestFullscreen();
@@ -171,12 +244,43 @@ document.addEventListener('DOMContentLoaded', (event) => {
 window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
+let timer = 0;
+async function updateTimer() {
+    timer += 1;
+}
+setInterval(updateTimer, 1000);
       </script>
     </head>
     <body>
         <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
     </body>
     <style>
+        #ads, #ads100, #insane {
+            border: 0.1px solid rgb(8, 72, 0);
+            border-radius: 7px;
+            background-color: rgb(20, 132, 0);
+            padding: 1px;
+            margin: 7px;
+            font-size: 1.7vw;
+            text-decoration: none;
+            color: black;
+            text-align: center;
+        }
+        #ads:focus, #ads100:focus, #insane:focus {
+            border: 2px solid rgb(8, 72, 0);
+            background-color: rgb(14, 97, 0);
+        }
+        #ads:hover, #ads100:hover, #insane:hover {
+            border: 2px solid rgb(8, 72, 0);
+            background-color: rgb(14, 97, 0);
+        }
+        #adspop {
+            background-color: rgb(20,132,0);
+            border: 8px solid rgb(8, 72, 0);
+            border-radius: 18px;
+            width: 35vw;
+            height: 55vh;
+        }
         #popup1 {
           position: absolute;
           z-index: -999;
@@ -305,6 +409,26 @@ window.onbeforeunload = function(e) {
         }
         #cloaking::backdrop, #infopop::backdrop {
             filter: blur(15px);
+        }
+        #allads {
+            border: 0.1px solid rgb(0, 94, 16);
+            border-radius: 7px;
+            background-color: rgb(0, 130, 13);
+            padding: 1px;
+            margin: 7px;
+            font-size: 2vw;
+            text-decoration: none;
+            color: black;
+            min-width: 120px;
+            text-align: center;
+        }
+        #allads:focus {
+            border: 2px solid rgb(0, 77, 13);
+            background-color: rgb(0, 93, 9);
+        }
+        #allads:hover {
+            border: 2px solid rgb(0, 77, 13);
+            background-color: rgb(0, 93, 9);
         }
         #aboutBlank {
             border: 0.1px solid rgb(67, 115, 147);
