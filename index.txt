@@ -263,7 +263,7 @@ document.onclick = function() {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://educationisfun15.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
+        <iframe  id="website" src="https://precalcstudy6.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
         sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-downloads allow-storage-access-by-user-activation" allowfullscreen></iframe>
     </body>
     <style>
