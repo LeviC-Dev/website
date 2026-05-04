@@ -82,7 +82,6 @@
         <button id="7" class="websitelink">Vapor</button>
         <button id="8" class="websitelink">Interstellar</button>
         <button id="9" class="websitelink">Relic</button>
-        <button id="ads" popovertarget="adspop">No Ads</button>
         <button id="info" popovertarget="infopop">Info</button>
         <button id="cloak" popovertarget="cloaking">Cloak</button>
           <button id="fullscreen"><img src="https://raw.githubusercontent.com/LeviC-Dev/website/main/fullscreen.png"></img></button>
@@ -244,27 +243,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
 window.onbeforeunload = function(e) {
   return "Are you sure you want to leave?";
 };
-let timer = 0;
-async function updateTimer() {
-    timer += 1;
-}
-setInterval(updateTimer, 1000);
-document.onclick = function() {
-    if((timer>=15)&&(ads==1)) {
-    window.open('https://omg10.com/4/10932755');
-    window.open('https://omg10.com/4/10932754');
-    window.open('https://omg10.com/4/10932752');
-    window.open('https://omg10.com/4/10932750');
-    window.open('https://omg10.com/4/10932748');
-    window.focus();
-    timer = 0;
-    }
-}
       </script>
     </head>
     <body>
         <iframe  id="website" src="https://educationisfun15.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
-        sandbox="allow-same-origin allow-scripts allow-popups allow-forms allow-top-navigation allow-downloads allow-storage-access-by-user-activation" allowfullscreen></iframe>
+        sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-downloads allow-storage-access-by-user-activation allowfullscreen" allowfullscreen></iframe>
     </body>
     <style>
         #ads, #ads100, #insane {
