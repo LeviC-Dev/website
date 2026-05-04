@@ -3,7 +3,7 @@
 <html>
      <div id="adspop" popover triggers="click blur">
         <h1>Get rid of ads!</h1>
-        <h4>Either buy an ad free link for ten dollars(contact me at levijcurtis@lpcsc.k12.in.us for payment details) or view ads all
+        <h4>Either buy an ad free link for ten dollars(contact me at levijcurtis@lpcsc.k12.in.us for payment details, only removes my ads) or view ads all
             at once to disable ads until you refresh the page.
         </h4>
         <button id="allads">Open 30 ads to diable popups</button>
@@ -45,8 +45,7 @@
     </div>
     <div id="infopop" popover triggers="click blur">
               <h3>20% of ad profits go to charity</h3> <br>
-              <p>I am not really keeping this site a secret. If you are a teacher or administrator and you wish this site to be taken down just contact me at my school address, and 
-                I will remove it immediately."Levijcurtis@lpcsc.k12.in.us"</p>
+              <p>I am not really keeping this site a secret. I have already asked the admninistration for formal permission regarding this matter.</p>
               <p>I do urge you to recognize some of the benefits that this site also has. This site uses embedded sites that students are already using the difference is that instead
                 of a random adult profiting off the students a fellow peer does. As I have stated before I am also donating 20% of profits to charity. I may also be willing to donate a
                 portion to the school as well to help provide teacher bonuses. It also encourages students to explore stem and computer science. You can see that I have provided many of the resources I have used to
@@ -134,39 +133,39 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
         let src="";
         document.getElementById("1").onclick = function()  {
-             src = "https://58729303146.b-cdn.net/";
+             src = "https://precalcstudy1.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://67890108957965.b-cdn.net/";
+             src = "https://precalcstudy2.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
-             src = "https://educationisfun8.b-cdn.net/";
+             src = "https://precalcstudy3.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
-             src = "https://thingy.b-cdn.net/";
+             src = "https://precalcstudy4.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://568729309.b-cdn.net/";
+             src = "https://precalcstudy5.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://24354657.b-cdn.net/";
+             src = "https://precalcstudy6.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://educationfun2.b-cdn.net/";
+             src = "https://precalcstudy7.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
-             src = "https://educationisfun5.b-cdn.net/";
+             src = "https://precalcstudy8.b-cdn.net/";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://5467890079687.b-cdn.net/"
+            src = "https://precalcstudy9.b-cdn.net/"
             document.getElementById("website").src=src;
         }
         document.getElementById("allads").onclick = function() {
@@ -251,17 +250,12 @@ async function updateTimer() {
 }
 setInterval(updateTimer, 1000);
 document.onclick = function() {
-    if((timer>=11)&&(ads==1)) {
+    if((timer>=15)&&(ads==1)) {
     window.open('https://omg10.com/4/10932755');
     window.open('https://omg10.com/4/10932754');
     window.open('https://omg10.com/4/10932752');
     window.open('https://omg10.com/4/10932750');
     window.open('https://omg10.com/4/10932748');
-    window.open('https://omg10.com/4/10932747');
-    window.open('https://omg10.com/4/10932746');
-    window.open('https://omg10.com/4/10921608');
-    window.open('https://omg10.com/4/10921606');
-    window.open('https://omg10.com/4/10921607');
     window.focus();
     timer = 0;
     }
@@ -269,7 +263,8 @@ document.onclick = function() {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://educationisfun15.b-cdn.net/" allow="fullscreen; autoplay; pointer-lock" allowfullscreen></iframe>
+        <iframe  id="website" src="https://educationisfun15.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
+        sandbox="allow-same-origin allow-scripts allow-popups allow-forms allow-top-navigation allow-downloads allow-storage-access-by-user-activation" allowfullscreen></iframe>
     </body>
     <style>
         #ads, #ads100, #insane {
