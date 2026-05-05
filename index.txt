@@ -12,7 +12,7 @@
      </div>
     <dialog id="myPopup">
         <h1>Read User Policy</h1>
-        <h2>20% of ad profits will go to charity and 30% of ad profits will go to the school!</h2>
+        <h2>0% of ad profits will go to charity and 0% of ad profits will go to the school!</h2>
         <h2>Go to the Info tab to recieve updates on the page status or at this doc <a href="https://docs.google.com/document/d/1xMsn58xAUc64fnQ0ywnjUAXnu_39bmKZFtBe1tUrtB0/edit?usp=sharing">Google Doc</a></h2>
         <p style="font-size: 21px;">See work in progress features, report bugs, get more links, and make suggestions.
              Also MATH IS FUN!! Especially Aleks Math. I did six hours of Aleks math last night! If a website shows as blocked try spam clicking the button a few times.
@@ -59,27 +59,6 @@
         <a href="https://www.codechef.com/html-online-compiler" target="_blank">Code Tester</a>
         <p style="font-size: 23px">DMCA and Copyright</p> <br>
         <p>If you have content on this page and would like it removed please contact me at Levi19Curtis@protonmail.com</p>
-        <h1>My older brother John's story</h1>
-        <p>One day there was a boy named Tom, Tommy, Sommy, and a lot of other names. Tom Tommy Sommy and a lot of other names(we’ll 
-            just call him T) was eating an apple. The apple was good but T was not in a good mood. His English teacher was ranting 
-            about how you had to organize his stories. T hated organizing. He went to the doctor insisting that it made him sick, but 
-            that was 3 years ago and he did not hate organizing as much, but he still hates organizing stories. He likes to write the 
-            first thing that comes to mind so his stories were often long and random. Here's an example of one:One day there was a cat. 
-            The cat liked fish. The fish liked grass, but so did the lawn mower. The fish and the lawn mower got in a fight. Nobody knew 
-            who would win until the cat ate the fish. The cat threw the fish up on a boy's shoes because it tasted like grass, and unlike 
-            fish or lawn mowers, cats do not like grass. The boy was angry when he found a half digested fish that smelled like grass in 
-            his shoes and started throwing a temper tantrum but then the lawn mower came and tried to murder the half digested fish because
-             that is how much lawn mowers hate fish. The boy called 911 and in exactly 10.29452 seconds a squad car came speeding down the 
-             street and a bunch of police jumped out. They told the lawnmower to put her hands up(the lawn mower was a she) but the lawn mower
-              didn't have hands. The police were confused and didn't know what to do so the lawn mower rammed them so then the police started 
-              shooting. The lawn mower got out her gun and called her friends. Soon an army of lawn mowers came driving up the street. It turned 
-              into a battle ground with bullets flying everywhere. The boy called his best friend for help then his best friend called his 
-              cousin then his best friend’s cousin called his girlfriend then the boy’s best friend’s cousin’s girlfriend got in her 
-              steam train and started riding it toward the battlefield.(do not ask how the train moved without rails jacob) The police and the 
-              lawn mowers were in a heated battle when a huge steam train roared up the street and right through the battlefield. The 
-              police and the lawn mowers were confused because a steam train had just interrupted their battle so they all went home. The
-               boy got new shoes(insurance covered it) and the cat quit eating fish and its new favorite food became chicken.
-</p>
     </div>
     <head>
         <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
