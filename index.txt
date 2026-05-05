@@ -59,7 +59,7 @@
         <a href="https://www.codechef.com/html-online-compiler" target="_blank">Code Tester</a>
         <p style="font-size: 23px">DMCA and Copyright</p> <br>
         <p>If you have content on this page and would like it removed please contact me at Levi19Curtis@protonmail.com</p>
-        <h1>My older brother John's story</h1>
+
         <p>One day there was a boy named Tom, Tommy, Sommy, and a lot of other names. Tom Tommy Sommy and a lot of other names(we’ll 
             just call him T) was eating an apple. The apple was good but T was not in a good mood. His English teacher was ranting 
             about how you had to organize his stories. T hated organizing. He went to the doctor insisting that it made him sick, but 
