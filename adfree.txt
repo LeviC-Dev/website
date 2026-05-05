@@ -132,39 +132,48 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
         let src="";
         document.getElementById("1").onclick = function()  {
-             src = "https://precalcstudy1.b-cdn.net/";
+             src = "https://ilovemath1234.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
-             src = "https://precalcstudy2.b-cdn.net/";
+             src = "https://ireallylovemath.b-cdn.net/";
+            document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
-             src = "https://precalcstudy3.b-cdn.net/";
+             src = "https://storage.googleapis.com/dogeub/index.html#/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
-             src = "https://precalcstudy4.b-cdn.net/";
+             src = "https://calulushelp.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
-             src = "https://precalcstudy5.b-cdn.net/";
+             src = "https://mathstudyhelp.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
-             src = "https://precalcstudy6.b-cdn.net/";
+             src = "https://1234math.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
-             src = "https://precalcstudy7.b-cdn.net/";
+             src = "https://elaiscool.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
-             src = "https://precalcstudy8.b-cdn.net/";
+             src = "https://gomath.b-cdn.net/";
+             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
-            src = "https://precalcstudy9.b-cdn.net/"
+            src = "https://mathisfun12.b-cdn.net/"
+            document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
             document.getElementById("website").src=src;
         }
         document.getElementById("allads").onclick = function() {
@@ -246,7 +255,7 @@ window.onbeforeunload = function(e) {
       </script>
     </head>
     <body>
-        <iframe  id="website" src="https://precalcstudy6.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
+        <iframe  id="website" src="https://mathstudyhelp.b-cdn.net/" tabindex="0" allow="pointer-lock; keyboard; focus-without-user-activation"
         sandbox="allow-same-origin allow-scripts allow-forms allow-top-navigation allow-downloads allow-storage-access-by-user-activation allowfullscreen" allowfullscreen></iframe>
     </body>
     <style>
