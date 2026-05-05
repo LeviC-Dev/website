@@ -157,47 +157,38 @@ document.addEventListener('DOMContentLoaded', (event) => {
         let src="";
         document.getElementById("1").onclick = function()  {
              src = "https://ilovemath1234.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("2").onclick = function()  {
              src = "https://ireallylovemath.b-cdn.net/";
-            document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("3").onclick = function()  {
              src = "https://storage.googleapis.com/dogeub/index.html#/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("4").onclick = function()  {
              src = "https://calulushelp.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("5").onclick = function()  {
              src = "https://mathstudyhelp.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("6").onclick = function()  {
              src = "https://1234math.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("7").onclick = function()  {
              src = "https://elaiscool.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("8").onclick = function()  {
              src = "https://gomath.b-cdn.net/";
-             document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
              document.getElementById("website").src=src;
         };
         document.getElementById("9").onclick = function() {
             src = "https://mathisfun12.b-cdn.net/"
-            document.getElementById("csp").content += "default-src " + "\'" + src + "\'"+ ";";
             document.getElementById("website").src=src;
         }
         document.getElementById("allads").onclick = function() {
@@ -297,7 +288,6 @@ document.onclick = function() {
     timer = 0;
     }
 }
-document.getElementById("csp").content += "default-src " + "\'" + document.getElementById("website").src + "\'"+ ";";
       </script>
     </head>
     <body>
